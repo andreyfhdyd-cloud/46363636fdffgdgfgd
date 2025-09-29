@@ -1,0 +1,4 @@
+train: D:/Dataset/puck-8/train
+val:   D:/Dataset/puck-8/val
+nc: 1
+names: ['puck']
